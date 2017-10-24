@@ -7,8 +7,8 @@ import {Page1, Page2} from "./components/index";
 const routes = [
     {
         'path':'/',
-        'component': Page1,
-        'exact': true
+        'exact': true,
+        'component': Page1
     },
     {
         'path': '/Fetch',
